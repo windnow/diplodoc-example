@@ -1,4 +1,8 @@
-# Basic "About page" 
+# Тест системы ведения документации с `Diplodoc`
+
+Это тестовый проект ведения документации, начатый с помощью [быстрого старта](https://diplodoc.com/quickstart)
+
+Необходимо разобрать, как работать с системой, и предоставить возможность пользователю заполнения, поскольку эти изменения я вношу с помощью `vim`
 
 This is an example for basic documenation project.
 It contains simple structure with couple of pages (this page, another page) and nested sub-section. 
